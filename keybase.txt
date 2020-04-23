@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gheorghitahurmuz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gheorghitahurmuz.me
+  * I am gheorghitahurmuz (https://keybase.io/gheorghitahurmuz) on keybase.
+  * I have a public key ASArbz4GrwIDiecwNYZfU8M9Rqt29nhHbk76heTRqE3jSQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d52a8f86b06ad2c25d530499e52e568a34909ccee2d61e60e58e3a88b080c0760a",
+      "host": "keybase.io",
+      "kid": "01202b6f3e06af020389e73035865f53c33d46ab76f678476e4efa85e4d1a84de3490a",
+      "uid": "6759adbd95b99914838efc7040644019",
+      "username": "gheorghitahurmuz"
+    },
+    "merkle_root": {
+      "ctime": 1587652071,
+      "hash": "ef4855022dd6c6c4e085610e29b470f917d5aa3045f155dcc90f944f1166851941f486461049331ef9440d607a35bdd0660a7ce3afcfcb493a138b38e662c7d3",
+      "hash_meta": "abd9919a948328f382eaba50d1d96f064d56106ab830f4fc5d6afa63cf14d09b",
+      "seqno": 16025791
+    },
+    "service": {
+      "entropy": "ix7cufWzfnPTx+z8F66wXu7O",
+      "hostname": "gheorghitahurmuz.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.1"
+  },
+  "ctime": 1587652081,
+  "expire_in": 504576000,
+  "prev": "cd619acd6661a2b9466b8504a5f7b44f5144b67560e3c0c6f7716586da244fb2",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgK28+Bq8CA4nnMDWGX1PDPUardvZ4R25O+oXk0ahN40kKp3BheWxvYWTESpcCEcQgzWGazWZhorlGa4UEpfe0T1FEtnVg48DG93FlhtokT7LEIFAhokiKyUinW3kBW5QHpL76RB8rVTEjWS0hDPOVMcJ2AgHCo3NpZ8RAfVu94kn239avMwbbzK3dHQHt9gkhEev+A6VwjlhmcOlX0AA5rEmFe5K8LnRWP/t+d921RAqy0vFTnFCR0PMuB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGsaVAi351vOIqAwZhsUp0flAXLkoWWE7zACgke+Fi/po3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gheorghitahurmuz
+
+==================================================================
