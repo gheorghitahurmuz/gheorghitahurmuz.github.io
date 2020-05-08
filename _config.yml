@@ -1,11 +1,11 @@
 # Site settings
-title: Gheorghita Hurmuz
+title: Gheorghiță Hurmuz
 description: 'Developer | Passionate about philosophy and privacy'
 url: 'http://127.0.0.1:4000/'
 baseurl: ''
 
 author:
-  name: 'Gheorghita Hurmuz'
+  name: 'Gheorghiță Hurmuz'
   email: hurmuz.gheorghita@pm.me
   twitter_username: gheorghitahrmz
   github_username: gheorghitahurmuz
