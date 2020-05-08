@@ -1,7 +1,7 @@
 # Site settings
 title: Gheorghiță Hurmuz
-description: 'I\'m a Romania based web developer | Passionate about philosophy and privacy'
-url: 'http://127.0.0.1:4000/'
+description: "I\'m a Romania based web developer | Passionate about philosophy and privacy"
+url: 'http://gheorghitahurmuz.me/'
 baseurl: ''
 
 author:
